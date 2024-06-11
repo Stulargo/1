@@ -1,2 +1,2 @@
-# 1
-1
+# Tutaj masz te funkcje co chciales
+
