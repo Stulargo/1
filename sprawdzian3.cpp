@@ -8,9 +8,9 @@ void sort(int tab[], int n) {
     for (int j=0;j<n-i-1;i++){ 
       if(tab[j] tab[j+1]){ int temp tab[j]; tab[j]=tab[j+1];
 tab[j+1]=temp;
+  }
 }
-}
-חירח
+
 }
 }
 int main()
